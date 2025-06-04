@@ -1,5 +1,17 @@
 ---
 title: "Liam Gilson Website"
+image: media/LiamsHeadshot.JPEG
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: Email
+      href: mailto:liamtgilson08@gmail.com
+    - text: (707) 339-1132
+
+
 ---
 
 ```{r setup, message=FALSE, warning=FALSE}
