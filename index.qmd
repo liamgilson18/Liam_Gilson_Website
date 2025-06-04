@@ -1,8 +1,9 @@
 ---
-title: "Liam_Gilson_Website"
+title: "Liam Gilson Website"
 ---
 
-```{r}
+```{r setup, message=FALSE, warning=FALSE}
+
 library(tidyverse)
 
 
@@ -11,3 +12,4 @@ library(tidyverse)
 
 
 THIs is the start of my Website!
+
