@@ -2,9 +2,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\nThis is my about page I will be making many changes to this!"
+    "text": "On the about me page I want to talk about my love for Baseball, my artwork, and what I do for school."
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,19 @@
     "title": "Baseball",
     "section": "",
     "text": "Baseball has been a huge part of my life ever since I was a little kid."
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "resume",
+    "section": "",
+    "text": "This is where I will upload my resume."
+  },
+  {
+    "objectID": "Free4All.html",
+    "href": "Free4All.html",
+    "title": "free for all page",
+    "section": "",
+    "text": "This is where I will create my free for all page on my website."
   }
 ]

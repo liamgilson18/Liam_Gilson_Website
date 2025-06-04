@@ -1,11 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
-
-This is my about page I will be making many changes to this!
+On the about me page I want to talk about my love for Baseball, my artwork, and what I do for school.

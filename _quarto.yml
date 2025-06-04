@@ -9,10 +9,12 @@ website:
         text: Home
       - about.qmd
       - projectpage.qmd
+      - Free4All.qmd
+      - Resume.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
     page-layout: full
