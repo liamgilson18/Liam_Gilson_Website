@@ -7,3 +7,5 @@ On the about me page I want to talk about my love for Baseball, my artwork, and 
 ::: {style="text-align: center;"}
 ![My artwork](pics/Art1.JPEG){width="156"}
 :::
+
+did this work??
