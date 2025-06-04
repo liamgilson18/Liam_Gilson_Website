@@ -4,7 +4,7 @@ title: "About Me"
 
 On the about me page I want to talk about my love for Baseball, my artwork, and what I do for school.
 
-::: {style="text-align: center;"}
+::: {style="text-align: left;"}
 ![My artwork](pics/Art1.JPEG){width="156"}
 :::
 
