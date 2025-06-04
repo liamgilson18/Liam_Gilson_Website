@@ -1,6 +1,6 @@
 ---
 title: "Liam Gilson"
-image: media/LiamsHeadshot.JPEG
+image: pics/LiamsHeadshot.JPEG
 toc: false
 about: 
   template: jolla
