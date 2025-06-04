@@ -3,3 +3,9 @@ title: "About Me"
 ---
 
 On the about me page I want to talk about my love for Baseball, my artwork, and what I do for school.
+
+![](pics/BaseballYear3.JPG)
+
+This is me in my 3rd year of Basball. I was 11 years old and it was my first time playing with my best friend, Stacy.
+
+\![\](pics/Art1.JPEG)
