@@ -11,6 +11,13 @@
     "href": "index.html",
     "title": "Liam Gilson Website",
     "section": "",
-    "text": "library(tidyverse)\n\nTHIs is the start of my Website!"
+    "text": "library(tidyverse)\n\nTHIs is the start of my Website! It is the initial page"
+  },
+  {
+    "objectID": "projectpage.html",
+    "href": "projectpage.html",
+    "title": "Baseball",
+    "section": "",
+    "text": "Baseball has been a huge part of my life ever since I was a little kid."
   }
 ]

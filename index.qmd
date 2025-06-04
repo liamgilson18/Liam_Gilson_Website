@@ -23,5 +23,5 @@ library(tidyverse)
 ```
 
 
-THIs is the start of my Website!
+THIs is the start of my Website! It is the initial page 
 
