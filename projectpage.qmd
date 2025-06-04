@@ -1,5 +1,5 @@
 ---
-title: "Baseball"
+title: "Project page"
 ---
 
 Baseball has been a huge part of my life ever since I was a little kid.
