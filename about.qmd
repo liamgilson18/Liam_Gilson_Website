@@ -7,3 +7,5 @@ About this site
 ```{r}
 1 + 1
 ```
+
+This is my about page I will be making many changes to this!
