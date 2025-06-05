@@ -9,7 +9,7 @@ format:
     toc: true
 ---
 
-Hey Everyone! my name is Liam Gilson, and I am a 3rd year Hydrologic Sciences and Policy major at UC Santa Barbara. I grew up in the beautiful Napa Valley in a small town called Angwin. I went to Pacific Union College Elementary school from 1st to 8th grade, St. Helena High school all 4 years, Cuesta College to complete my certificate for transfer, and finally UCSB just this last year. I love sports, travelling and adventure, friends and family, art and food, and many more. I decided to become a Hydrology major because of my passion for California natural history and earth science. I credit my 7th grade teacher, Mr. Crow, for introducing me to environmental sciences. When I get older I want to have a job in hydrology that allows me to serve and better the community in which I live.
+Hey everyone! my name is Liam Gilson, and I am a 3rd year Hydrologic Sciences and Policy major at UC Santa Barbara. I grew up in the beautiful Napa Valley in a small town called Angwin. I went to Pacific Union College Elementary school from 1st to 8th grade, St. Helena High school all 4 years, Cuesta College to complete my certificate for transfer, and finally UCSB just past last year. I love sports, travelling and adventure, friends and family, art and food, and many more. I decided to become a Hydrology major because of my passion for California natural history and earth science. I credit my 7th grade teacher, Mr. Crow, for introducing me to environmental sciences. When I get older I want to have a job in Hydrology that allows me to serve and better the community in which I live.
 
 ::: {style="text-align: center;"}
 ![Me at Pirates Cove, near Avila Beach](pics/AboutMePic.PNG){width="436"}
