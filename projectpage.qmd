@@ -17,5 +17,3 @@ You can preview or download the full proposal below:
 This browser does not support PDFs. Please <a href="/papers/my_grant.pdf">download the PDF</a> instead.
 
 </iframe>
-
-Liam Gilson
