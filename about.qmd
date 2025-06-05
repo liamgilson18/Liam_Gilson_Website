@@ -1,5 +1,12 @@
 ---
 title: "About me"
+format: 
+  html:
+    echo: false
+    warning: false
+    message: false
+    error: false
+    toc: true
 ---
 
 Hey Everyone! my name is Liam Gilson, and I am a 3rd year Hydrologic Sciences and Policy major at UC Santa Barbara. I grew up in the beautiful Napa Valley in a small town called Angwin. I went to Pacific Union College Elementary school from 1st to 8th grade, St. Helena High school all 4 years, Cuesta College to complete my certificate for transfer, and finally UCSB just this last year. I love sports, travelling and adventure, friends and family, art and food, and many more. I decided to become a Hydrology major because of my passion for California natural history and earth science. I credit my 7th grade teacher, Mr. Crow, for introducing me to environmental sciences. When I get older I want to have a job in hydrology that allows me to serve and better the community in which I live.
@@ -23,6 +30,10 @@ Throughout my life, I have always had a fun time making art. My Fathers side of 
 ::: {style="text-align: center;"}
 ![Me looking at a painting in an art exhibit (top left) Our house's table that I designed and painted (top right) A graffiti stencil I created (bottom left) Some photography (bottom middle) and lastly a hand made ink abstract drawing (bottom right)](pics/ArtAboutMe.PNG){width="400px"}
 :::
+
+### Fun Adventures
+
+Another one of my favorite things about life is all the fun adventures Ive gone on with my friends and family. When I think of my favorite memories, these are the places that come to mind. For this Interactive Map, I have limited my locations to the state of California.
 
 ```{r }
 library(tidyverse)
@@ -67,3 +78,16 @@ site_map <- leaflet() |>
 # Print map
 site_map
 ```
+
+The locations are as follows, Starting at the north-most end, and going south
+
+1.  Lava Beds Nat'l Monument: This is a super cool location that I visited in a class field trip in the 7th grade, unsuprisingly, this trip was put on by Mr. Crow, who i mentioned in the "about me" tab. Lava Beds reminds me of the amazing friends I made in middle school.
+2.  Lake Shasta: This is significant to me because every year when driving to my lovely Grandmothers house I would pass over the Pit River Bridge, and see the horrifically low water levels. This planted a seed in my head at a young age for a love for hydrology.
+3.  Mt. Rose: This where I first learned how to ski! I went with my friends from my hometown. Since that year I try to ski every winter.
+4.  Mendocino : My family has a tradition to spend every Thanksgiving in Mendocino. My family has been doing this since my Father was 3 years old. This is one of the only times of the year I get to connect with my family and it always feels amazing to be back.
+5.  Angwin: Home! this is where I grew up and I am forever greatfull to grow up in such a beautiful place.
+6.  Salmon Creek: Salmon creek is about a two hour drive from home and I spent lots of time here with friends.
+7.  Utica Reservoir: Senior year I went dispersion camping here with the boys. Incredibly beautiful and great memories.
+8.  Oracle Park: Home of the San Francisco Giants! coming here always feels like home, and reminds me of the amazing 5 year run we had 2010-2014.
+9.  Cambria: this was one of my favorite places to go when living in San Luis Obispo
+10. Isla Vista: where I live present day. I am thankful for the sense of community and amazing beach vibes.
