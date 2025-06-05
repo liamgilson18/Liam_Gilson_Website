@@ -2,4 +2,48 @@
 title: "Project page"
 ---
 
-Here I will do my project portion.
+```{r}
+
+library(tidyverse)
+library(here)
+library(leaflet)
+library(leaflet.extras)
+
+# Read in data
+locations <- read_csv(file = here("untitled folder", "locations.CSV.csv"))
+
+# Cleaning and filtering
+sites <- locations |>
+  select(site_name = location, lat, long) |>
+  distinct()
+
+# Create custom icon
+blue_dot_icon <- makeIcon(
+  iconUrl = here("pics", "liam_dot.png"),
+  iconWidth = 30, iconHeight = 30
+)
+
+# Initialize map
+site_map <- leaflet() |>
+  addProviderTiles(providers$Esri.WorldImagery, group = "ESRI World Imagery") |>
+  setView(lng = -119.5, lat = 37.25, zoom = 6) |>
+
+  # Add markers
+  addMarkers(
+    data = sites,
+    icon = blue_dot_icon,
+    lng = ~long,
+    lat = ~lat,
+    popup = ~paste(
+      "Location:", site_name, "<br>",
+      "Coordinates (lat/long):", lat, ",", long
+    )
+  ) |>
+
+  # Add reset button
+  addResetMapButton()
+
+# Print map
+site_map
+
+```
