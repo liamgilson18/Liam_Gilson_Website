@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projectpage.html",
+    "href": "projectpage.html",
+    "title": "Project page",
+    "section": "",
+    "text": "Here I will do my project portion."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me",
@@ -12,20 +19,6 @@
     "title": "Liam Gilson",
     "section": "",
     "text": "Hello Everyone! My name is Liam Gilson, and I am a 3rd year Hydrologic Sciences and Policy major at UCSB."
-  },
-  {
-    "objectID": "projectpage.html",
-    "href": "projectpage.html",
-    "title": "Project page",
-    "section": "",
-    "text": "Here I will do my project portion."
-  },
-  {
-    "objectID": "Resume.html",
-    "href": "Resume.html",
-    "title": "resume",
-    "section": "",
-    "text": "This is where I will upload my resume."
   },
   {
     "objectID": "Free4All.html",
