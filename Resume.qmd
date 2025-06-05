@@ -3,5 +3,5 @@ title: "resume"
 ---
 
 ::: {style="text-align: center;"}
-![](pics/resume.png){width="400px"}
+![](pics/resume.png){width="1000px"}
 :::
